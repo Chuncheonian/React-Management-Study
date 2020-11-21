@@ -1,8 +1,9 @@
 import React from 'react';
 import TableRow from '@material-ui/core/TableRow';
 import TableCell from '@material-ui/core/TableCell';
+
 class Customer extends React.Component {
-    // render -> 항상 수행되는 내용, 실제 화면에 구현
+    {/* render -> 항상 수행되는 내용, 실제 화면에 구현 */}
     render() {
         return (
             <TableRow>
