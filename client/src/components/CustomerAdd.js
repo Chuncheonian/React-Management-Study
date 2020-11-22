@@ -1,7 +1,5 @@
 import React from 'react';
 import { post } from 'axios';
-import App from '../App';
-// import { response } from 'express';
 
 class CustomerAdd extends React.Component {
     constructor(props) {
